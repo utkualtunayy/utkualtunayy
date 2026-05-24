@@ -1,7 +1,7 @@
 # Hi 👋, I'm Utku Altunay
 
 ### A passionate frontend developer from Turkey
-- 🌱 I'm currently learning **html,css,js and asp.net mvc**
+- 🌱 I'm currently learning **Boostrap,js and asp.net mvc**
 
 - 📫 How to reach me **utkualtunayy@gmail.com**
 
